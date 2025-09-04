@@ -1,7 +1,7 @@
 # ABC Airlines Booking System
 
 ## Overview
-The ABC Airlines Booking System is a Python-based GUI application designed to handle user registration, flight reservation, and payment for ABC Airlines. It uses the `Tkinter` library for the graphical user interface and `SQLite` for data storage.
+The ABC Airlines Booking System is a Python-based GUI (tKinter) application designed to handle user registration, flight reservation, and payment for ABC Airlines. It uses the `Tkinter` library for the graphical user interface and `SQLite` for data storage.
 
 ### Key Features:
 - **User Registration:** New users can register with their personal details.
